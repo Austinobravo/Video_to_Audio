@@ -1,4 +1,4 @@
-[![MasterHead align="center"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnTMED62gucl72ElFsbP0i5ANI0CIvF5Z7A&usqp=CAU)](https://rishavchanda.io)
+
 <h1 align="center">An Video to Audio Converter</h1>
 
 ## Prerequisties
